@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librerias", "Librerias", "{9765F3AF-A428-4DF5-8FCE-65DF7782692A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ParteI", "ParteI", "{6E554116-E41D-4EEA-8D8D-C6D704D6349A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ParteII", "ParteII", "{F6D0F043-8D71-467E-94AD-AFA8DEF86998}"
+	ProjectSection(SolutionItems) = preProject
+		LibreriaImperial.cs = LibreriaImperial.cs
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaGigante", "LibreriaGigante\LibreriaGigante.csproj", "{75D8AA50-0A74-410D-AE40-416F850CBAFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoOVERWATCH", "ProyectoCASANDRApoolday\ProyectoOVERWATCH.csproj", "{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D8AA50-0A74-410D-AE40-416F850CBAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D8AA50-0A74-410D-AE40-416F850CBAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D8AA50-0A74-410D-AE40-416F850CBAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D8AA50-0A74-410D-AE40-416F850CBAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E554116-E41D-4EEA-8D8D-C6D704D6349A} = {9765F3AF-A428-4DF5-8FCE-65DF7782692A}
+		{F6D0F043-8D71-467E-94AD-AFA8DEF86998} = {9765F3AF-A428-4DF5-8FCE-65DF7782692A}
+		{75D8AA50-0A74-410D-AE40-416F850CBAFA} = {9765F3AF-A428-4DF5-8FCE-65DF7782692A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {979D1186-5EAE-4A76-8AEE-7FB154F678D5}
+	EndGlobalSection
+EndGlobal
