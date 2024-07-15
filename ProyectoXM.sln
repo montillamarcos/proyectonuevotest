@@ -14,8 +14,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ParteII", "ParteII", "{F6D0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaGigante", "LibreriaGigante\LibreriaGigante.csproj", "{75D8AA50-0A74-410D-AE40-416F850CBAFA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoOVERWATCH", "ProyectoCASANDRApoolday\ProyectoOVERWATCH.csproj", "{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,10 +24,6 @@ Global
 		{75D8AA50-0A74-410D-AE40-416F850CBAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D8AA50-0A74-410D-AE40-416F850CBAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D8AA50-0A74-410D-AE40-416F850CBAFA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E23137A-6DC3-43D4-92E1-7C20A21C11E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
